@@ -727,7 +727,7 @@ const SITE_DATA = {
 
   // === PODCASTS ===
   podcasts: [
-    { title: "Misinformation, Social Media, and Deepfakes", show: "Conspicuous Cognition (AI Sessions #8)", year: 2026, url: "https://www.conspicuouscognition.com/p/ai-sessions-8-misinformation-social", color: "#5c1a3a" },
+    { title: "Misinformation, Social Media, and Deepfakes", show: "Conspicuous Cognition", year: 2026, url: "https://www.conspicuouscognition.com/p/ai-sessions-8-misinformation-social", color: "#5c1a3a" },
     { title: "The misinformation circus", show: "Dr\u017eavljan D", year: 2024, url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/", color: "#1a3a5c" },
     { title: "Misinformation, Fake News & Conspiracy", show: "Behind the Stigma", year: 2023, url: "https://behindthestigma.buzzsprout.com/1402324/13270115-misinformation-fake-news-conspiracy-with-dr-sacha-altay", color: "#2a5a8c" },
     { title: "How effective are interventions against misinformation?", show: "National Academies of Sciences", year: 2023, url: "https://www.nationalacademies.org/event/02-22-2023/understanding-and-addressing-misinformation-about-science-committee-meeting-2", color: "#1a5c4a" },
