@@ -626,7 +626,7 @@ const SITE_DATA = {
     { year: 2024, title: "Don't panic: AI can strengthen democracy too", outlet: "Bulletin of the Atomic Scientists", url: "https://thebulletin.org/2024/10/dont-panic-ai-can-strengthen-democracy-too/" },
     { year: 2024, title: "Elon Musk's Community Notes Feature on X Is Working", outlet: "Bloomberg", url: "https://www.bloomberg.com/opinion/articles/2024-05-22/elon-musk-s-community-notes-feature-on-x-is-working" },
     { year: 2024, title: "Grand Dossier \u00c9crans : les grands d\u00e9cerveleurs ?", outlet: "Sciences humaines", url: "https://www.scienceshumaines.com/ecrans-les-grands-decerveleurs_fr_47457.html" },
-    { year: 2024, title: "R\u00e9seaux sociaux : polarisent-ils les opinions ?", outlet: "Epsiloon" },
+    { year: 2024, title: "R\u00e9seaux sociaux : polarisent-ils les opinions ?", outlet: "Epsiloon", url: "https://www.epsiloon.com/tous-les-numeros/n39/reseaux_sociaux_polarisent_ils_les_opinions/" },
     { year: 2024, title: "Why we need to talk less about disinformation", outlet: "De Correspondent", url: "https://decorrespondent.nl/15411/waarom-we-het-minder-over-desinformatie-moeten-hebben/562ad759-e6e6-0a6d-0aaf-ef8c9485aa75" },
     { year: 2024, title: "Social media: The X-odus", outlet: "Research Professional News", url: "https://www.researchprofessionalnews.com/rr-news-europe-universities-2023-11-social-media-the-x-odus/" },
     { year: 2024, title: "Why the 'Flood of AI Misinformation' Has Not Materialized as of yet", outlet: "NRC", url: "https://www.nrc.nl/nieuws/2024/02/22/waarom-de-vloedgolf-van-ai-nepnieuws-vooralsnog-uitblijft-voor-misleiden-is-ai-niet-nodig-a4190956" },
