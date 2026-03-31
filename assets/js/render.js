@@ -399,8 +399,41 @@ function renderTeaching(containerId) {
 
   var t = SITE_DATA.teaching;
 
-  // Build all teaching content inside a hidden div
+  // Guest lectures first (visible, show 3)
+  if (t.guestLectures && t.guestLectures.length > 0) {
+    var label3 = document.createElement("div");
+    label3.className = "subsection-label";
+    label3.textContent = "Guest Lectures";
+    container.appendChild(label3);
+
+    renderFlatListUl(container, t.guestLectures, function(gl) {
+      return "<span class='year-tag'>" + gl.year + "</span> " +
+        gl.title + ". <span class='venue'>" + gl.institution + "</span>" +
+        (gl.level ? ", " + gl.level : "") + ".";
+    }, 3);
+  }
+
+  // Rest collapsed
   var content = document.createElement("div");
+
+  // Supervision
+  if (t.supervision && t.supervision.length > 0) {
+    var label4 = document.createElement("div");
+    label4.className = "subsection-label";
+    label4.textContent = "Student Supervision";
+    content.appendChild(label4);
+
+    var ul4 = document.createElement("ul");
+    ul4.className = "entry-list";
+    t.supervision.forEach(function(s) {
+      var li = document.createElement("li");
+      li.innerHTML = "<span class='year-tag'>" + s.years + "</span> " +
+        s.student + " (" + s.institution + ")" +
+        (s.note ? " \u2014 " + s.note : "") + ".";
+      ul4.appendChild(li);
+    });
+    content.appendChild(ul4);
+  }
 
   // Courses
   if (t.courses && t.courses.length > 0) {
@@ -439,56 +472,6 @@ function renderTeaching(containerId) {
     });
     content.appendChild(ul2);
   }
-
-  // Guest lectures
-  if (t.guestLectures && t.guestLectures.length > 0) {
-    var label3 = document.createElement("div");
-    label3.className = "subsection-label";
-    label3.textContent = "Guest Lectures (" + t.guestLectures.length + ")";
-    content.appendChild(label3);
-
-    var ul3 = document.createElement("ul");
-    ul3.className = "entry-list";
-    t.guestLectures.forEach(function(gl) {
-      var li = document.createElement("li");
-      li.innerHTML = "<span class='year-tag'>" + gl.year + "</span> " +
-        gl.title + ". <span class='venue'>" + gl.institution + "</span>" +
-        (gl.level ? ", " + gl.level : "") + ".";
-      ul3.appendChild(li);
-    });
-    content.appendChild(ul3);
-  }
-
-  // Supervision
-  if (t.supervision && t.supervision.length > 0) {
-    var label4 = document.createElement("div");
-    label4.className = "subsection-label";
-    label4.textContent = "Student Supervision";
-    content.appendChild(label4);
-
-    var ul4 = document.createElement("ul");
-    ul4.className = "entry-list";
-    t.supervision.forEach(function(s) {
-      var li = document.createElement("li");
-      li.innerHTML = "<span class='year-tag'>" + s.years + "</span> " +
-        s.student + " (" + s.institution + ")" +
-        (s.note ? " \u2014 " + s.note : "") + ".";
-      ul4.appendChild(li);
-    });
-    content.appendChild(ul4);
-  }
-
-  // Summary line + expand button
-  var summary = document.createElement("p");
-  summary.style.fontSize = "14px";
-  summary.style.color = "var(--text-muted)";
-  summary.style.marginBottom = "12px";
-  var totalLectures = t.guestLectures ? t.guestLectures.length : 0;
-  var totalStudents = t.supervision ? t.supervision.length : 0;
-  summary.innerHTML = "Former co-instructor and TA at \u00c9cole Normale Sup\u00e9rieure. " +
-    totalLectures + " guest lectures at international universities. " +
-    totalStudents + " students supervised.";
-  container.appendChild(summary);
 
   var hiddenId = uid();
   content.id = hiddenId;
