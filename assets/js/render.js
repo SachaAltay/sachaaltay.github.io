@@ -519,7 +519,7 @@ function initScrollSpy() {
   function onScroll() {
     var current = "";
     sections.forEach(function(section) {
-      var top = section.offsetTop - 80;
+      var top = section.offsetTop - 40;
       if (window.scrollY >= top) {
         current = section.getAttribute("id");
       }
