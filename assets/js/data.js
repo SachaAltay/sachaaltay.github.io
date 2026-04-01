@@ -24,7 +24,7 @@ const SITE_DATA = {
       youtubeId: "_l5TbSZN0lE"
     },
     {
-      title: "Reframing the problem of misinformation",
+      title: "Rethinking the Problem of Misinformation",
       venue: "TSHD Digital Humanities Symposium, Tilburg",
       year: 2023,
       youtubeId: "Yms5DfMYQTw"
