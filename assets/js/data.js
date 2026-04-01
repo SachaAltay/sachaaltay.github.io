@@ -726,16 +726,17 @@ const SITE_DATA = {
 
   // === PODCASTS ===
   podcasts: [
-    { title: "Misinformation, Social Media, and Deepfakes", show: "Conspicuous Cognition", year: 2026, url: "https://www.conspicuouscognition.com/p/ai-sessions-8-misinformation-social", color: "#5c1a3a" },
+    { title: "Misinformation, Social Media, and Deepfakes", show: "Conspicuous Cognition", year: 2026, url: "https://open.spotify.com/episode/1bKHmc2dsIPHtPI5NuzVSD" },
     { title: "The misinformation circus", show: "Dr\u017eavljan D", year: 2024, url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/", color: "#1a3a5c" },
-    { title: "Misinformation, Fake News & Conspiracy", show: "Behind the Stigma", year: 2023, url: "https://behindthestigma.buzzsprout.com/1402324/13270115-misinformation-fake-news-conspiracy-with-dr-sacha-altay", color: "#2a5a8c" },
+    { title: "Misinformation, Fake News & Conspiracy", show: "Behind the Stigma", year: 2023, url: "https://open.spotify.com/episode/6E4HhMQKeJluDMDtewnloT" },
     { title: "How effective are interventions against misinformation?", show: "National Academies of Sciences", year: 2023, url: "https://www.nationalacademies.org/event/02-22-2023/understanding-and-addressing-misinformation-about-science-committee-meeting-2", color: "#1a5c4a" },
     { title: "Misinformation and Climate Change", show: "In Over My Head", year: 2022, url: "https://www.inovermyheadpodcast.com/episodes/changing-minds-part-6", color: "#5c3a1a" },
     { title: "Was the COVID-19 infodemic exaggerated?", show: "The Agenda (TVO)", year: 2022, url: "https://www.tvo.org/video/was-the-covid-19-infodemic-exaggerated", color: "#3a1a5c" },
-    { title: "M\u00e9sinformation sur la d\u00e9sinformation", show: "Projet Utopia", year: 2022, url: "https://soundcloud.com/projetutopia/mesinformation-sur-la-desinformation-sacha-altay", color: "#4a5c1a" },
+    { title: "M\u00e9sinformation sur la d\u00e9sinformation", show: "Projet Utopia", year: 2022, url: "https://open.spotify.com/episode/1NaH36xaVZbcK6rerJhJzq" },
     { title: "Sacha et ses fake news", show: "Un verre avec", year: 2022, url: "https://www.listennotes.com/podcasts/un-verre-avec/sacha-et-ses-fake-news-lcvIHmuUYxg/", color: "#5c2a2a" },
-    { title: "Social Media, Fake News & COVID-19", show: "The Dissenter", year: 2021, url: "https://www.youtube.com/watch?v=P9HBMMLzqKc", color: "#2a3a5c" },
-    { title: "Misinformation, intellectual humility, and critical thinking", show: "Connecting cells", year: 2023, url: "https://www.connectingcells.com/reasoning-report-sacha-altay/", color: "#1a4a5c" }
+    { title: "Social Media, Fake News & COVID-19", show: "The Dissenter", year: 2021, url: "https://open.spotify.com/episode/6nXzyy2dwwa9FGDFwIlKDG" },
+    { title: "Misinformation, intellectual humility, and critical thinking", show: "Connecting cells", year: 2023, url: "https://www.connectingcells.com/reasoning-report-sacha-altay/" },
+    { title: "Misinformation", show: "Causes or Cures", year: 2023, url: "https://open.spotify.com/episode/2Cw9BVpg3NualS0i9UdMIx" }
   ],
 
   // === GRANTS ===
