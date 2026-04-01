@@ -532,7 +532,7 @@ h3 {
 }
 
 .podcast-card {
-  flex: 0 0 240px;
+  flex: 0 0 200px;
   scroll-snap-align: start;
   background: var(--bg-alt);
   border-radius: 8px;
@@ -550,14 +550,14 @@ h3 {
   text-decoration: none;
   color: inherit;
   display: flex;
-  gap: 12px;
-  padding: 14px;
+  gap: 10px;
+  padding: 10px;
   align-items: flex-start;
 }
 
 .podcast-card .podcast-favicon {
-  width: 40px;
-  height: 40px;
+  width: 24px;
+  height: 24px;
   border-radius: 8px;
   flex-shrink: 0;
   background: white;
@@ -613,7 +613,7 @@ h3 {
 }
 
 .press-card {
-  flex: 0 0 260px;
+  flex: 0 0 200px;
   scroll-snap-align: start;
   background: var(--bg-alt);
   border-radius: 8px;
@@ -630,14 +630,14 @@ h3 {
   text-decoration: none;
   color: inherit;
   display: flex;
-  gap: 12px;
-  padding: 14px;
+  gap: 10px;
+  padding: 10px;
   align-items: flex-start;
 }
 
 .press-card .press-favicon {
-  width: 24px;
-  height: 24px;
+  width: 20px;
+  height: 20px;
   border-radius: 4px;
   flex-shrink: 0;
   margin-top: 2px;
