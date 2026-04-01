@@ -729,7 +729,6 @@ const SITE_DATA = {
     { title: "Misinformation, Social Media, and Deepfakes", show: "Conspicuous Cognition", year: 2026, url: "https://open.spotify.com/episode/1bKHmc2dsIPHtPI5NuzVSD" },
     { title: "The misinformation circus", show: "Dr\u017eavljan D", year: 2024, url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/", color: "#1a3a5c" },
     { title: "Misinformation, Fake News & Conspiracy", show: "Behind the Stigma", year: 2023, url: "https://open.spotify.com/episode/6E4HhMQKeJluDMDtewnloT" },
-    { title: "How effective are interventions against misinformation?", show: "National Academies of Sciences", year: 2023, url: "https://www.nationalacademies.org/event/02-22-2023/understanding-and-addressing-misinformation-about-science-committee-meeting-2", color: "#1a5c4a" },
     { title: "Misinformation and Climate Change", show: "In Over My Head", year: 2022, url: "https://www.inovermyheadpodcast.com/episodes/changing-minds-part-6", color: "#5c3a1a" },
     { title: "Was the COVID-19 infodemic exaggerated?", show: "The Agenda (TVO)", year: 2022, url: "https://www.tvo.org/video/was-the-covid-19-infodemic-exaggerated", color: "#3a1a5c" },
     { title: "M\u00e9sinformation sur la d\u00e9sinformation", show: "Projet Utopia", year: 2022, url: "https://open.spotify.com/episode/1NaH36xaVZbcK6rerJhJzq" },
