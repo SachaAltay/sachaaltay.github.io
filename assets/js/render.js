@@ -413,15 +413,12 @@ function renderTeaching(containerId) {
     }, 3);
   }
 
-  // Rest collapsed
-  var content = document.createElement("div");
-
   // Supervision
   if (t.supervision && t.supervision.length > 0) {
     var label4 = document.createElement("div");
     label4.className = "subsection-label";
     label4.textContent = "Student Supervision";
-    content.appendChild(label4);
+    container.appendChild(label4);
 
     var ul4 = document.createElement("ul");
     ul4.className = "entry-list";
@@ -432,7 +429,7 @@ function renderTeaching(containerId) {
         (s.note ? " \u2014 " + s.note : "") + ".";
       ul4.appendChild(li);
     });
-    content.appendChild(ul4);
+    container.appendChild(ul4);
   }
 
   // Courses
@@ -440,7 +437,7 @@ function renderTeaching(containerId) {
     var label = document.createElement("div");
     label.className = "subsection-label";
     label.textContent = "Courses";
-    content.appendChild(label);
+    container.appendChild(label);
 
     var ul = document.createElement("ul");
     ul.className = "entry-list";
@@ -452,7 +449,7 @@ function renderTeaching(containerId) {
         ". " + c.hours + ". <span class='type-tag'>" + c.role + "</span>";
       ul.appendChild(li);
     });
-    content.appendChild(ul);
+    container.appendChild(ul);
   }
 
   // TA
@@ -460,7 +457,7 @@ function renderTeaching(containerId) {
     var label2 = document.createElement("div");
     label2.className = "subsection-label";
     label2.textContent = "Teaching Assistant";
-    content.appendChild(label2);
+    container.appendChild(label2);
 
     var ul2 = document.createElement("ul");
     ul2.className = "entry-list";
@@ -470,28 +467,8 @@ function renderTeaching(containerId) {
         c.title + ". <span class='venue'>" + c.institution + "</span>, " + c.level + ". " + c.hours + ".";
       ul2.appendChild(li);
     });
-    content.appendChild(ul2);
+    container.appendChild(ul2);
   }
-
-  var hiddenId = uid();
-  content.id = hiddenId;
-  content.style.display = "none";
-  container.appendChild(content);
-
-  var btn = document.createElement("button");
-  btn.className = "show-more-btn";
-  btn.textContent = "Show details";
-  btn.onclick = function() {
-    var el = document.getElementById(hiddenId);
-    if (el.style.display === "none") {
-      el.style.display = "";
-      btn.textContent = "Hide details";
-    } else {
-      el.style.display = "none";
-      btn.textContent = "Show details";
-    }
-  };
-  container.appendChild(btn);
 }
 
 // === NAVIGATION: highlight active section on scroll ===
