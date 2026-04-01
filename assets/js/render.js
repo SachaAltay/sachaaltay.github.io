@@ -157,7 +157,6 @@ function renderSelectedPapers(containerId) {
     "Spotting False News and Doubting True News: A Meta-Analysis of News Judgements",
     "Don't Panic (Yet): Assessing the Evidence and Discourse Around Generative AI and Elections",
     "News on Social Media Boosts Knowledge, Belief Accuracy, and Trust: A Field Experiment on Instagram and WhatsApp",
-    "Research note: Fighting for information or fighting misinformation?",
     "Why do so Few People Share Fake News? It Hurts Their Reputation",
     "Misinformation Reloaded? Fears about the Impact of Generative AI on Misinformation are Overblown"
   ];
