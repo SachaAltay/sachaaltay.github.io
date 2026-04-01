@@ -206,14 +206,16 @@ const SITE_DATA = {
       authors: "<span class='self'>Altay, S.</span>, Nera, K., Ejaz, W., Sch\u00f6pfer, C. & Tomas, F.",
       title: "Conspiracy Believers Claim to Be Free Thinkers but (Under)Use Advice Like Everyone Else",
       journal: "British Journal of Social Psychology",
-      url: "https://psyarxiv.com/3xv8s"
+      url: "https://psyarxiv.com/3xv8s",
+      thumb: "assets/img/papers/_2023_Conspi_BJSP_.png"
     },
     {
       year: 2023,
       authors: "Schmid, P., <span class='self'>Altay, S.</span> & Scherer, L.",
       title: "The Psychological Impacts and Message Features of Planetary Health Misinformation",
       journal: "European Psychologist",
-      url: "https://econtent.hogrefe.com/doi/full/10.1027/1016-9040/a000494"
+      url: "https://econtent.hogrefe.com/doi/full/10.1027/1016-9040/a000494",
+      thumb: "assets/img/papers/_2023_Health_misinfo_Euro_Psy_.png"
     },
     {
       year: 2023,
@@ -228,7 +230,8 @@ const SITE_DATA = {
       authors: "Ejaz, W., <span class='self'>Altay, S.</span>, & Naeem, G.",
       title: "Smartphone use and well-being in Pakistan: Comparing the effect of self-reported and actual smartphone use",
       journal: "Digital Health",
-      url: "https://journals.sagepub.com/doi/10.1177/20552076231186075"
+      url: "https://journals.sagepub.com/doi/10.1177/20552076231186075",
+      thumb: "assets/img/papers/_2023_Smartphones_Digital_Health_.png"
     },
     {
       year: 2023,
@@ -236,6 +239,7 @@ const SITE_DATA = {
       title: "Happy Thoughts: The Role of Communion in Accepting and Sharing Epistemically Suspect Beliefs",
       journal: "British Journal of Social Psychology",
       url: "https://psyarxiv.com/3s4nr/",
+      thumb: "assets/img/papers/_2023_Warmth_BJSP_.png",
       youtube: "https://youtu.be/isCvq6IbWLw"
     },
     {
@@ -275,7 +279,8 @@ const SITE_DATA = {
       authors: "Herrera-Masurel, A.\u2020, <span class='self'>Altay, S.</span>\u2020, & Mercier, H.",
       title: "Does nuclear energy produce neodymium? Negative perception of nuclear energy drives the assumption that it is polluting",
       journal: "Journal of Experimental Psychology: Applied",
-      url: "https://psyarxiv.com/qe73c"
+      url: "https://psyarxiv.com/qe73c",
+      thumb: "assets/img/papers/_2023_Nuclear_JEPA_.png"
     },
     {
       year: 2023,
@@ -298,7 +303,8 @@ const SITE_DATA = {
       authors: "Liu, S\u2020, <span class='self'>Altay, S.</span>\u2020, & Mercier, H.",
       title: "Being green or being nice? People are more likely to share nicer but potentially less impactful green messages",
       journal: "Climatic Change",
-      url: "https://psyarxiv.com/jmhwq"
+      url: "https://psyarxiv.com/jmhwq",
+      thumb: "assets/img/papers/_2022_Climatic_Change.png"
     },
     {
       year: 2022,
@@ -320,21 +326,24 @@ const SITE_DATA = {
       year: 2022,
       authors: "Hoogeveen, S., ... <span class='self'>Altay, S.</span>, ... & Nilsonne, G.",
       title: "A many-analysts approach to the relation between religiosity and well-being",
-      journal: "Religion, Brain & Behavior"
+      journal: "Religion, Brain & Behavior",
+      thumb: "assets/img/papers/_2022_Religion_Well_Being_Rel_Brain_Beh_.png"
     },
     {
       year: 2022,
       authors: "Hoogeveen, S., Haaf, J.M., Bulbulia, J., Ross, R.M., McKay, R., <span class='self'>Altay, S.</span>, ... & van Elk, M.",
       title: "The Einstein effect: Global evidence for scientific source credibility effects and the influence of religiosity",
       journal: "Nature Human Behaviour",
-      url: "https://www.nature.com/articles/s41562-021-01273-8"
+      url: "https://www.nature.com/articles/s41562-021-01273-8",
+      thumb: "assets/img/papers/_2022_Einstein_effect_NHB_.png"
     },
     {
       year: 2022,
       authors: "de Araujo, E.\u2020, <span class='self'>Altay, S.</span>\u2020, Bor, A., & Mercier, H.",
       title: "Dominant Jerks: People infer dominance from the utterance of challenging and offensive statements",
       journal: "Social Psychological Bulletin",
-      url: "https://spb.psychopen.eu/index.php/spb/article/view/6999"
+      url: "https://spb.psychopen.eu/index.php/spb/article/view/6999",
+      thumb: "assets/img/papers/_2021_Dominant_Jerks_SPB_.png"
     },
     {
       year: 2021,
@@ -342,6 +351,7 @@ const SITE_DATA = {
       title: "\"If this account is true, it is most enormously wonderful\": Interestingness-if-true and the sharing of true and false news",
       journal: "Digital Journalism",
       url: "https://osf.io/preprints/psyarxiv/tdfh5_v1",
+      thumb: "assets/img/papers/_2021_Interestingness_if_true_DJ_.png",
       youtube: "https://youtu.be/lXVeUbLegpk?t=451"
     },
     {
@@ -349,14 +359,16 @@ const SITE_DATA = {
       authors: "<span class='self'>Altay, S.</span>, Hacquin, A., Chevallier, C.\u2020, & Mercier, H\u2020.",
       title: "Information Delivered by a Chatbot Has a Positive Impact on COVID-19 Vaccines Attitudes and Intentions",
       journal: "Journal of Experimental Psychology: Applied",
-      url: "https://psyarxiv.com/eb2gt"
+      url: "https://psyarxiv.com/eb2gt",
+      thumb: "assets/img/papers/_2021_Covid_Chatbot_JEPA_.png"
     },
     {
       year: 2021,
       authors: "Hacquin, A., <span class='self'>Altay, S.</span>, Aar\u00f8e, L., & Mercier, H.",
       title: "Fear of contamination and public opinion on nuclear energy",
       journal: "Journal of Environmental Psychology",
-      url: "https://www.sciencedirect.com/science/article/pii/S0272494421002024"
+      url: "https://www.sciencedirect.com/science/article/pii/S0272494421002024",
+      thumb: "assets/img/papers/_2022_Nuclear_Disgust_Env_Psy_.png"
     },
     {
       year: 2020,
@@ -373,6 +385,7 @@ const SITE_DATA = {
       title: "It Happened to a Friend of a Friend: Inaccurate Source Reporting In Rumor Diffusion",
       journal: "Evolutionary Human Sciences",
       url: "https://www.cambridge.org/core/journals/evolutionary-human-sciences/article/it-happened-to-a-friend-of-a-friend-inaccurate-source-reporting-in-rumour-diffusion/EDD52EE3BD31F47891282229B5EFDD07",
+      thumb: "assets/img/papers/_2020_Rumors_EHS_.png",
       youtube: "https://youtu.be/qM9Iw-Heffk"
     },
     {
@@ -380,42 +393,48 @@ const SITE_DATA = {
       authors: "<span class='self'>Altay, S.</span>, Majima, Y. & Mercier, H.",
       title: "It's My Idea! Reputation Management and Idea Appropriation",
       journal: "Evolution & Human Behavior",
-      url: "https://hal.science/hal-02533312/document"
+      url: "https://hal.science/hal-02533312/document",
+      thumb: "assets/img/papers/_2020_Idea_Appropriation_Reputation_Management_EHB_.png"
     },
     {
       year: 2020,
       authors: "Berriche, M. & <span class='self'>Altay, S.</span>",
       title: "Internet users engage more with phatic posts than with health misinformation on Facebook",
       journal: "Palgrave Communications",
-      url: "https://www.nature.com/articles/s41599-020-0452-1"
+      url: "https://www.nature.com/articles/s41599-020-0452-1",
+      thumb: "assets/img/papers/_2020_Phatic_posts_and_health_misinformation_on_Facebook_Palgrave_Comm_.png"
     },
     {
       year: 2020,
       authors: "<span class='self'>Altay, S.</span> & Mercier, H.",
       title: "Framing Messages for Vaccination Supporters",
       journal: "Journal of Experimental Psychology: Applied",
-      url: "https://hal.science/hal-02533249/"
+      url: "https://hal.science/hal-02533249/",
+      thumb: "assets/img/papers/_2020_Framing_Vaccination_JEPA_.png"
     },
     {
       year: 2020,
       authors: "Marie, A., <span class='self'>Altay, S.</span> & Strickland, B.",
       title: "The Cognitive Foundations of Misinformation on Science",
       journal: "EMBO reports",
-      url: "https://osf.io/preprints/psyarxiv/n4gfx_v1"
+      url: "https://osf.io/preprints/psyarxiv/n4gfx_v1",
+      thumb: "assets/img/papers/_2020_Science_Misinformation_EMBO_.png"
     },
     {
       year: 2020,
       authors: "<span class='self'>Altay, S.</span> & Mercier, H.",
       title: "Relevance Is Socially Rewarded, But Not at the Price of Accuracy",
       journal: "Evolutionary Psychology",
-      url: "https://journals.sagepub.com/doi/10.1177/1474704920912640"
+      url: "https://journals.sagepub.com/doi/10.1177/1474704920912640",
+      thumb: "assets/img/papers/_2020_Relevance_Reputation_Evo_Psy_.png"
     },
     {
       year: 2020,
       authors: "<span class='self'>Altay, S.</span> & Lakhlifi, C.",
       title: "Are Science Festivals a Good Place to Discuss Heated Topics?",
       journal: "Journal of Science Communication",
-      url: "https://jcom.sissa.it/sites/default/files/documents/JCOM_1901_2020_A07.pdf"
+      url: "https://jcom.sissa.it/sites/default/files/documents/JCOM_1901_2020_A07.pdf",
+      thumb: "assets/img/papers/_2020_Science_Festivals_JCOM_.png"
     }
   ],
 
@@ -471,7 +490,8 @@ const SITE_DATA = {
       authors: "Mercier, H. & <span class='self'>Altay, S.</span>",
       title: "Do cultural misbeliefs cause costly behavior?",
       journal: "In Musolino, J., Hemmer, P. & Sommer, J. (Eds.) The Science of Beliefs. Cambridge University Press",
-      type: "Book chapter"
+      type: "Book chapter",
+      thumb: "assets/img/papers/_2022_Intuitive_reflective_beliefs.png"
     },
     {
       year: 2020,
@@ -479,7 +499,8 @@ const SITE_DATA = {
       title: "Rationalizations primarily serve reputation management, not decision making",
       journal: "Behavioral & Brain Sciences",
       type: "Comment",
-      url: "https://osf.io/preprints/psyarxiv/vy2dt_v1"
+      url: "https://osf.io/preprints/psyarxiv/vy2dt_v1",
+      thumb: "assets/img/papers/_2020_Rationalizations_BBS_.png"
     }
   ],
 
