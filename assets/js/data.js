@@ -30,6 +30,12 @@ const SITE_DATA = {
       youtubeId: "Yms5DfMYQTw"
     },
     {
+      title: "Reframing the Misinformation Problem",
+      venue: "EDMO BELUX",
+      year: 2025,
+      youtubeId: "hPl45wWtZdw"
+    },
+    {
       title: "Was the COVID-19 Infodemic Exaggerated?",
       venue: "The Agenda, TVO Today",
       year: 2022,
