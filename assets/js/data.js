@@ -48,6 +48,12 @@ const SITE_DATA = {
       youtubeId: "aOyq7IfDrS8"
     },
     {
+      title: "Reframing AI in the Digital Public Sphere",
+      venue: "Knight First Amendment Institute",
+      year: 2025,
+      youtubeId: "p2kAQK1gLQs"
+    },
+    {
       title: "Social Media, Fake News & COVID-19",
       venue: "The Dissenter",
       year: 2021,
