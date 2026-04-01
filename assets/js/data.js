@@ -72,6 +72,12 @@ const SITE_DATA = {
       youtubeId: "qM9Iw-Heffk"
     },
     {
+      title: "G\u00e9opolitique du risque et IA (French)",
+      venue: "\u00c9cole Normale Sup\u00e9rieure - PSL",
+      year: 2025,
+      youtubeId: "X4AaC1DmX5c"
+    },
+    {
       title: "M\u00e9sinformation : un enjeu de sensibilisation publique ? (French)",
       venue: "DITP, Mardi de l'innovation",
       year: 2022,
