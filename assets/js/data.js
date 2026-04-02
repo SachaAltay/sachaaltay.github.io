@@ -473,7 +473,7 @@ const SITE_DATA = {
       title: "Misinformation is a symptom: Commentary on Ecker et al. 2025",
       journal: "American Psychologist",
       type: "Comment",
-      url: "https://doi.org/10.1037/amp0001550",
+      url: "https://osf.io/preprints/psyarxiv/y4rnx_v1",
       thumb: "assets/img/papers/_2026_Misinfo_symptom_AmPsy.png"
     },
     {
