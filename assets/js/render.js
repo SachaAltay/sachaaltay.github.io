@@ -174,7 +174,7 @@ function renderPubPreviewGrid(containerId) {
   var container = document.getElementById(containerId);
   if (!container) return;
 
-  var allPapers = SITE_DATA.chapters.concat(SITE_DATA.peerReviewed);
+  var allPapers = SITE_DATA.peerReviewed.concat(SITE_DATA.chapters);
   var papers = sortByYear(allPapers).filter(function(p) { return p.thumb; });
 
   renderPubCards(container, papers);
