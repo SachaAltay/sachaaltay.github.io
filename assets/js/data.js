@@ -163,7 +163,7 @@ const SITE_DATA = {
       authors: "<span class='self'>Altay, S.</span>, Hoes, E. & Wojcieszak, M.",
       title: "News on Social Media Boosts Knowledge, Belief Accuracy, and Trust: A Field Experiment on Instagram and WhatsApp",
       journal: "Nature Human Behaviour",
-      url: "https://doi.org/10.1038/s41562-025-02306-8",
+      url: "https://doi.org/10.1038/s41562-025-02205-6",
       thumb: "assets/img/papers/_2025_Field_Exp_NHB.png"
     },
     {
