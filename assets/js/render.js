@@ -38,14 +38,15 @@ function renderFeaturedTalks(containerId) {
     var card = document.createElement("div");
     card.className = "video-card";
 
-    var maxresUrl = "https://img.youtube.com/vi/" + talk.youtubeId + "/maxresdefault.jpg";
-    var fallbackUrl = "https://img.youtube.com/vi/" + talk.youtubeId + "/sddefault.jpg";
+    var noMaxres = ["aOyq7IfDrS8", "lXVeUbLegpk", "x9c8S92_WYw"];
+    var quality = noMaxres.indexOf(talk.youtubeId) >= 0 ? "sddefault" : "maxresdefault";
+    var thumbUrl = "https://img.youtube.com/vi/" + talk.youtubeId + "/" + quality + ".jpg";
     var videoUrl = "https://www.youtube.com/watch?v=" + talk.youtubeId;
 
     card.innerHTML =
       "<a href='" + videoUrl + "' target='_blank' rel='noopener'>" +
         "<div class='thumb-wrapper'>" +
-          "<img src='" + maxresUrl + "' alt='" + talk.title + "' loading='lazy' onerror=\"this.onerror=null;this.src='" + fallbackUrl + "'\">" +
+          "<img src='" + thumbUrl + "' alt='" + talk.title + "' loading='lazy'>" +
           "<div class='play-btn'><svg viewBox='0 0 24 24'><polygon points='5,3 19,12 5,21'/></svg></div>" +
         "</div>" +
         "<div class='video-info'>" +
