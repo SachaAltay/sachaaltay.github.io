@@ -119,6 +119,7 @@ const SITE_DATA = {
   peerReviewed: [
     {
       year: 2026,
+      month: 4,
       authors: "<span class='self'>Altay, S.</span>",
       title: "Rethinking the Problem of Misinformation and Its Solutions",
       journal: "New Media & Society",
@@ -462,6 +463,7 @@ const SITE_DATA = {
   chapters: [
     {
       year: 2026,
+      month: 4,
       authors: "Scharfbillig, M., Lewandowsky, S., <span class='self'>Altay, S.</span>, van Alstyne, M., Kozyreva, A., et al.",
       title: "Fractured Reality: How Democracy Can Win the Global Struggle over the Information Space",
       journal: "Publications Office of the European Union",

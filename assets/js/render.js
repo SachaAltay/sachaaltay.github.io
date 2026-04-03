@@ -12,7 +12,7 @@ function toggleShowMore(btn, hiddenId) {
 
 // === HELPER: sort items by year descending ===
 function sortByYear(items) {
-  return [...items].sort(function(a, b) { return b.year - a.year; });
+  return [...items].sort(function(a, b) { return b.year - a.year || (b.month || 0) - (a.month || 0); });
 }
 
 // Unique ID counter
