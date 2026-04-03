@@ -472,7 +472,7 @@ const SITE_DATA = {
     {
       year: 2026,
       authors: "<span class='self'>Altay, S.</span>, & Mercier, H.",
-      title: "Misinformation is a symptom: Commentary on Ecker et al. 2025",
+      title: "Misinformation is a symptom: Commentary on Ecker et al. 2024",
       journal: "American Psychologist",
       type: "Comment",
       url: "https://osf.io/preprints/psyarxiv/y4rnx_v1",
