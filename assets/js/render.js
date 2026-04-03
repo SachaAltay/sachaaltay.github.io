@@ -38,7 +38,7 @@ function renderFeaturedTalks(containerId) {
     var card = document.createElement("div");
     card.className = "video-card";
 
-    var thumbUrl = "https://img.youtube.com/vi/" + talk.youtubeId + "/mqdefault.jpg";
+    var thumbUrl = "https://img.youtube.com/vi/" + talk.youtubeId + "/hqdefault.jpg";
     var videoUrl = "https://www.youtube.com/watch?v=" + talk.youtubeId;
 
     card.innerHTML =
