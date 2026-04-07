@@ -123,7 +123,7 @@ const SITE_DATA = {
       authors: "<span class='self'>Altay, S.</span>",
       title: "Rethinking the Problem of Misinformation and Its Solutions",
       journal: "New Media & Society",
-      url: "https://osf.io/preprints/psyarxiv/sm3vk_v2",
+      url: "https://archive.org/details/altay-2026",
       thumb: "assets/img/papers/_2026_Misinfo_Interventions_NMS.png"
     },
     {
