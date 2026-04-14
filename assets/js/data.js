@@ -48,16 +48,16 @@ const SITE_DATA = {
       youtubeId: "ve1SFGcriV4"
     },
     {
-      title: "How Effective Are Interventions Against Misinformation?",
-      venue: "TeDCog seminar, University of Bristol",
-      year: 2022,
-      youtubeId: "aOyq7IfDrS8"
-    },
-    {
       title: "Reframing AI in the Digital Public Sphere",
       venue: "Knight First Amendment Institute",
       year: 2025,
       youtubeId: "p2kAQK1gLQs"
+    },
+    {
+      title: "How Effective Are Interventions Against Misinformation?",
+      venue: "TeDCog seminar, University of Bristol",
+      year: 2022,
+      youtubeId: "aOyq7IfDrS8"
     },
     {
       title: "Social Media, Fake News & COVID-19",
