@@ -602,6 +602,7 @@ const SITE_DATA = {
 
   // === INVITED LAB TALKS & LOCAL CONFERENCES ===
   labTalks: [
+    { year: 2026, text: "Rethinking the problem of misinformation", venue: "Markets and Strategy / Cognition and Behavior seminar, WU Vienna", location: "Online" },
     { year: 2025, text: "Rethinking the problem of misinformation", venue: "London Judgment & Decision Making Group", location: "Online" },
     { year: 2025, text: "Rethinking the problem of misinformation", venue: "EDMO Belux", location: "Online" },
     { year: 2025, text: "Don't Panic (Yet): Assessing the Evidence and Discourse Around (Generative) AI and Elections", venue: "Knight Institute, symposium on AI and democratic freedoms", location: "NYC, US" },
