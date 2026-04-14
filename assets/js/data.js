@@ -18,6 +18,12 @@ const SITE_DATA = {
   // === FEATURED TALKS (YouTube videos for the landing section) ===
   featuredTalks: [
     {
+      title: "Information, r\u00e9seaux sociaux et confiance",
+      venue: "Conseil Scientifique de l'ANSM",
+      year: 2026,
+      youtubeId: "ve1SFGcriV4"
+    },
+    {
       title: "Misinformation, Social Media, and Deepfakes",
       venue: "Conspicuous Cognition",
       year: 2026,
