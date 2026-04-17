@@ -474,7 +474,7 @@ const SITE_DATA = {
       title: "Fractured Reality: How Democracy Can Win the Global Struggle over the Information Space",
       journal: "Publications Office of the European Union",
       type: "Report",
-      url: "https://data.europa.eu/doi/10.2760/9358883",
+      url: "https://publications.jrc.ec.europa.eu/repository/handle/JRC144603",
       thumb: "assets/img/papers/_2026_JRC_report.png"
     },
     {
