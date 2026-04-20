@@ -668,7 +668,7 @@ const SITE_DATA = {
   pressMentions: [
     { year: 2026, title: "AI agent swarms in elections", outlet: "NZZ", url: "https://www.nzz.ch/technologie/schwaerme-aus-ki-agenten-koennten-schon-bald-demokratische-wahlen-beeinflussen-warnen-prominente-experten-wirklich-ld.1921487" },
     { year: 2026, title: "Health misinformation on TikTok", outlet: "Publico", url: "https://www.publico.pt/interactivos/tiktok-desinformacao-saude-pernas-compridas/" },
-    { year: 2025, title: "'Unethical' AI research on Reddit under fire", outlet: "Science", url: "https://www.science.org/content/article/unethical-ai-research-reddit-under-fire" },
+    { year: 2025, title: "Unethical AI research on Reddit", outlet: "Science", url: "https://www.science.org/content/article/unethical-ai-research-reddit-under-fire" },
     { year: 2025, title: "Can you spot fake news?", outlet: "Scientias", url: "https://scientias.nl/je-denkt-misschien-dat-je-nepnieuws-moeiteloos-doorziet-maar-klopt-dat-wel/" },
     { year: 2024, title: "Misinformation and elections", outlet: "Nature", url: "https://www.nature.com/articles/d41586-024-01696-z" },
     { year: 2024, title: "'Supersharers' spread most fake news", outlet: "Science", url: "https://www.science.org/content/article/tiny-number-supersharers-spread-vast-majority-fake-news" },
