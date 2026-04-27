@@ -141,6 +141,14 @@ const SITE_DATA = {
       thumb: "assets/img/papers/_2026_Conspi_first_hand_PSPB.png"
     },
     {
+      year: 2026,
+      month: 4,
+      authors: "Hoes, E. & <span class='self'>Altay, S.</span>",
+      title: "Debriefings in Misinformation Research Should Include Fact-Checks to Reduce False Beliefs and Increase Perceived Learning",
+      journal: "Political Science Research and Methods",
+      url: "https://doi.org/10.31234/osf.io/gsudk_v1"
+    },
+    {
       year: 2025,
       authors: "<span class='self'>Altay, S.</span>, Hoes, E. & Wojcieszak, M.",
       title: "News Informs and Boosts Discernment: A replication in France and Germany",
@@ -187,6 +195,14 @@ const SITE_DATA = {
       journal: "Information, Communication & Society",
       url: "https://www.tandfonline.com/doi/full/10.1080/1369118X.2024.2445636",
       thumb: "assets/img/papers/_2025_Fact_check_Pakistan_ICS.png"
+    },
+    {
+      year: 2025,
+      authors: "Lyons, B., Modirrousta-Galian, A., <span class='self'>Altay, S.</span>, & Salovich, NA.",
+      title: "Reducing Blind Spots? Performance Feedback Reduces Relative Confidence but Does Not Improve Subsequent News Discernment",
+      journal: "Collabra: Psychology",
+      url: "https://doi.org/10.1525/collabra.138652",
+      thumb: "assets/img/papers/_2025_Confidence_Collabra.png"
     },
     {
       year: 2024,
@@ -534,20 +550,6 @@ const SITE_DATA = {
 
   // === WORKING PAPERS / FILE DRAWER ===
   workingPapers: [
-    {
-      year: 2025,
-      authors: "<span class='self'>Altay, S.</span>, et al.",
-      title: "Debriefings in Misinformation Research Should Include Fact-Checks to Reduce False Beliefs and Increase Perceived Learning",
-      journal: "OSF Preprint",
-      url: "https://doi.org/10.31234/osf.io/gsudk_v1"
-    },
-    {
-      year: 2025,
-      authors: "<span class='self'>Altay, S.</span>, et al.",
-      title: "Reduce blind spots to improve news discernment? Performance feedback reduces overconfidence but does not improve subsequent discernment",
-      journal: "OSF Preprint",
-      url: "https://osf.io/preprints/osf/kgfrb"
-    },
     {
       year: 2023,
       authors: "Hoes, E., <span class='self'>Altay, S.</span>, & Bermeo, J.",
