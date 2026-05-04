@@ -668,6 +668,7 @@ const SITE_DATA = {
 
   // === OUTREACH: PRESS MENTIONS ===
   pressMentions: [
+    { year: 2026, title: "Conflict chambers, not echo chambers, on social media", outlet: "Verificat", url: "https://www.verificat.cat/no-son-cambres-deco-son-cambres-de-conflicte-per-que-ens-polaritzen-les-xarxes-socials/" },
     { year: 2026, title: "AI agent swarms in elections", outlet: "NZZ", url: "https://www.nzz.ch/technologie/schwaerme-aus-ki-agenten-koennten-schon-bald-demokratische-wahlen-beeinflussen-warnen-prominente-experten-wirklich-ld.1921487" },
     { year: 2026, title: "Health misinformation on TikTok", outlet: "Publico", url: "https://www.publico.pt/interactivos/tiktok-desinformacao-saude-pernas-compridas/" },
     { year: 2025, title: "Unethical AI research on Reddit under fire", outlet: "Science", url: "https://www.science.org/content/article/unethical-ai-research-reddit-under-fire" },
