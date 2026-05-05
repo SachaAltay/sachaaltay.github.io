@@ -568,6 +568,7 @@ const SITE_DATA = {
 
   // === CONFERENCE PRESENTATIONS ===
   conferences: [
+    { year: 2026, text: "The challenges of fake news circulation and belief", venue: "AFRAVIH", location: "Lausanne, Switzerland", type: "Talk" },
     { year: 2025, text: "Who Is Concerned About Misinformation and Why? Evidence From 46 Countries Between 2018 and 2023", venue: "APSA", location: "Vancouver, Canada", type: "Talk" },
     { year: 2025, text: "How effective are interventions against misinformation? A meta-analysis", venue: "Swiss Psychological Society", location: "Crans-Montana, Switzerland", type: "Talk" },
     { year: 2025, text: "How effective are interventions designed to help people detect misinformation? A meta-analysis", venue: "EPSA", location: "Madrid, Spain", type: "Talk" },
