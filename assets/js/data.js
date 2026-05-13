@@ -699,7 +699,6 @@ const SITE_DATA = {
     { year: 2023, title: "Le fact-checking sert-il \u00e0 quelque chose ?", outlet: "Le Figaro", url: "https://www.lefigaro.fr/sciences/le-fact-checking-sert-il-a-quelque-chose-20220104" },
     { year: 2022, title: "Misinformation about misinfo research", outlet: "Psypost", url: "https://www.psypost.org/2023/02/new-research-highlights-the-misinformation-on-misinformation-research-67716" },
     { year: 2022, title: "Disinfo: emergency or false problem?", outlet: "Polytechnique insights", url: "https://www.polytechnique-insights.com/tribunes/societe/la-desinformation-urgence-democratique-ou-faux-probleme/" },
-    { year: 2021, title: "Fake news is mostly produced for profit", outlet: "Facts" },
   ],
 
   // === OUTREACH: PUBLIC TALKS & INTERVENTIONS ===
