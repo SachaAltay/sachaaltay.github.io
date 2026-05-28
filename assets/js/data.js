@@ -703,8 +703,10 @@ const SITE_DATA = {
 
   // === OUTREACH: PUBLIC TALKS & INTERVENTIONS ===
   publicTalks: [
+    { year: 2026, text: "Round Table: Facts, Doubts and Climate Action \u2014 How to Tackle Disinformation?", venue: "\u00c9cole Normale Sup\u00e9rieure" },
     { year: 2026, text: "Fighting misinformation", venue: "Conseil scientifique de l'\u00e9ducation nationale" },
     { year: 2026, text: "Fighting misinformation", venue: "S\u00e9ance du Conseil Scientifique de l'ANSM" },
+    { year: 2026, text: "Round Table: Geopolitics of Risk and AI", venue: "\u00c9cole Normale Sup\u00e9rieure" },
     { year: 2026, text: "Misinformation, Social Media, and Deepfakes", venue: "Conspicuous Cognition" },
     { year: 2024, text: "Everything You Know About Disinformation is Wrong", venue: "DSI Disinformation Month, Zurich" },
     { year: 2024, text: "Rethinking misinformation & what (not) to do about it", venue: "DSI Media Workshop, Zurich" },
