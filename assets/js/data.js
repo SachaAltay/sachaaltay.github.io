@@ -701,33 +701,20 @@ const SITE_DATA = {
     { year: 2022, title: "Disinfo: emergency or false problem?", outlet: "Polytechnique insights", url: "https://www.polytechnique-insights.com/tribunes/societe/la-desinformation-urgence-democratique-ou-faux-probleme/" },
   ],
 
-  // === OUTREACH: PUBLIC TALKS & INTERVENTIONS ===
-  publicTalks: [
+  // === OUTREACH: PANELS & PUBLIC TALKS ===
+  panelsAndPublicTalks: [
     { year: 2026, text: "Round Table: Facts, Doubts and Climate Action \u2014 How to Tackle Disinformation?", venue: "\u00c9cole Normale Sup\u00e9rieure" },
     { year: 2026, text: "Fighting misinformation", venue: "Conseil scientifique de l'\u00e9ducation nationale" },
     { year: 2026, text: "Fighting misinformation", venue: "S\u00e9ance du Conseil Scientifique de l'ANSM" },
     { year: 2026, text: "Round Table: Geopolitics of Risk and AI", venue: "\u00c9cole Normale Sup\u00e9rieure" },
-    { year: 2026, text: "Misinformation, Social Media, and Deepfakes", venue: "Conspicuous Cognition" },
     { year: 2024, text: "Everything You Know About Disinformation is Wrong", venue: "DSI Disinformation Month, Zurich" },
     { year: 2024, text: "Rethinking misinformation & what (not) to do about it", venue: "DSI Media Workshop, Zurich" },
-    { year: 2024, text: "The misinformation circus", venue: "Podcast Dr\u017eavljan D", url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/" },
-    { year: 2023, text: "Misinformation, Fake News & Conspiracy", venue: "Behind the Stigma", url: "https://behindthestigma.buzzsprout.com/1402324/13270115-misinformation-fake-news-conspiracy-with-dr-sacha-altay" },
     { year: 2023, text: "How effective are interventions against misinformation?", venue: "National Academies of Sciences, Engineering, and Medicine", url: "https://www.nationalacademies.org/event/02-22-2023/understanding-and-addressing-misinformation-about-science-committee-meeting-2" },
-    { year: 2023, text: "Misinformation, intellectual humility, and critical thinking", venue: "Connecting cells", url: "https://www.connectingcells.com/reasoning-report-sacha-altay/" },
-    { year: 2022, text: "Misinformation and Social Media", venue: "Papier Crayon" },
-    { year: 2022, text: "Misinformation and Climate Change", venue: "In Over My Head Podcast", url: "https://www.inovermyheadpodcast.com/episodes/changing-minds-part-6" },
-    { year: 2022, text: "Quantifying the 'infodemic': People turned to trustworthy news outlets during the pandemic", venue: "The Agenda, TVO", url: "https://www.tvo.org/video/was-the-covid-19-infodemic-exaggerated" },
     { year: 2022, text: "Fighting misinformation or fighting for information?", venue: "Climate Action Against Disinformation (CAAD)" },
-    { year: 2022, text: "Misinformation & trust in the news media", venue: "KMO" },
-    { year: 2022, text: "Interview on misconceptions about misinformation", venue: "Projet Utopia", url: "https://soundcloud.com/projetutopia/mesinformation-sur-la-desinformation-sacha-altay" },
     { year: 2022, text: "Misinformation, the point of view of cognitive psychologists", venue: "De facto" },
-    { year: 2022, text: "Live stream on misinformation and distrust", venue: "Kairos" },
     { year: 2022, text: "Webinar on fake news and misinformation", venue: "DITP" },
-    { year: 2022, text: "Interview on misinformation, conspiracy theories, and communication strategies during the pandemic", venue: "Un verre avec", url: "https://www.listennotes.com/podcasts/un-verre-avec/sacha-et-ses-fake-news-lcvIHmuUYxg/" },
     { year: 2021, text: "Hearing on misinformation, social media and democracy", venue: "Commission Bronner, for the French government", url: "https://www.elysee.fr/emmanuel-macron/2022/01/11/remise-du-rapport-de-la-commission-bronner" },
-    { year: 2021, text: "Interview on gullibility and misinformation", venue: "Cog Sci, Phil & Chill" },
     { year: 2021, text: "Round Table: Unlocking Science: Prioritising Institutional Responses to Distrust in Science", venue: "Berlin Science Week" },
-    { year: 2021, text: "Interview on Social Media, Fake News, Science Communication, and COVID-19", venue: "The Dissenter", url: "https://www.youtube.com/watch?v=P9HBMMLzqKc" },
     { year: 2020, text: "COVID-19 et m\u00e9sinformation", venue: "Le Point" },
     { year: 2019, text: "The influence of disgust on human psychology", venue: "DITP" },
     { year: 2019, text: "La psychologie des fake news (audition publique sur l'h\u00e9sitation vaccinale)", venue: "Assembl\u00e9e nationale" },
@@ -736,10 +723,25 @@ const SITE_DATA = {
     { year: 2019, text: "\u00c9tude sur la diffusion des rumeurs", venue: "Colloque des jeunes chercheurs (Fresco)" },
     { year: 2019, text: "Les origines \u00e9volutionnaires de la raison humaine", venue: "S\u00e9minaire de l'\u00c9cole Normale Sup\u00e9rieure" },
     { year: 2018, text: "Expliquer la culture par la th\u00e9orie de l'\u00e9volution: Paris contre la Californie", venue: "Cognivence" },
-    { year: 2018, text: "Conna\u00eetre ses biais cognitifs pour mieux recruter", venue: "Ph\u00e9b\u00e9, Le Point" },
     { year: 2018, text: "Le mur des fake news (F\u00eate de la science)", venue: "Universit\u00e9 de Strasbourg" },
-    { year: 2017, text: "Murmurer \u00e0 l'oreille de l'\u00e9l\u00e9phant. Qu'est-ce que le raisonnement moral?", venue: "Ph\u00e9b\u00e9, Le Point" },
     { year: 2017, text: "Connais toi toi-m\u00eame avec Darwin", venue: "Cognivence" }
+  ],
+
+  // === OUTREACH: PODCASTS & INTERVIEWS ===
+  podcastsAndInterviews: [
+    { year: 2026, text: "Misinformation, Social Media, and Deepfakes", venue: "Conspicuous Cognition" },
+    { year: 2024, text: "The misinformation circus", venue: "Podcast Dr\u017eavljan D", url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/" },
+    { year: 2023, text: "Misinformation, Fake News & Conspiracy", venue: "Behind the Stigma", url: "https://behindthestigma.buzzsprout.com/1402324/13270115-misinformation-fake-news-conspiracy-with-dr-sacha-altay" },
+    { year: 2023, text: "Misinformation, intellectual humility, and critical thinking", venue: "Connecting cells", url: "https://www.connectingcells.com/reasoning-report-sacha-altay/" },
+    { year: 2022, text: "Misinformation and Social Media", venue: "Papier Crayon" },
+    { year: 2022, text: "Misinformation and Climate Change", venue: "In Over My Head Podcast", url: "https://www.inovermyheadpodcast.com/episodes/changing-minds-part-6" },
+    { year: 2022, text: "Quantifying the 'infodemic': People turned to trustworthy news outlets during the pandemic", venue: "The Agenda, TVO", url: "https://www.tvo.org/video/was-the-covid-19-infodemic-exaggerated" },
+    { year: 2022, text: "Misinformation & trust in the news media", venue: "KMO" },
+    { year: 2022, text: "Interview on misconceptions about misinformation", venue: "Projet Utopia", url: "https://soundcloud.com/projetutopia/mesinformation-sur-la-desinformation-sacha-altay" },
+    { year: 2022, text: "Live stream on misinformation and distrust", venue: "Kairos" },
+    { year: 2022, text: "Interview on misinformation, conspiracy theories, and communication strategies during the pandemic", venue: "Un verre avec", url: "https://www.listennotes.com/podcasts/un-verre-avec/sacha-et-ses-fake-news-lcvIHmuUYxg/" },
+    { year: 2021, text: "Interview on gullibility and misinformation", venue: "Cog Sci, Phil & Chill" },
+    { year: 2021, text: "Interview on Social Media, Fake News, Science Communication, and COVID-19", venue: "The Dissenter", url: "https://www.youtube.com/watch?v=P9HBMMLzqKc" }
   ],
 
   // === OUTREACH: ARTICLES WRITTEN ===
@@ -775,6 +777,8 @@ const SITE_DATA = {
     { year: 2018, title: "Pourquoi nous pr\u00e9f\u00e9rons les in\u00e9galit\u00e9s", outlet: "Ph\u00e9b\u00e9, Le Point" },
     { year: 2018, title: "Pourquoi le milieu joue sur notre biologie", outlet: "Ph\u00e9b\u00e9, Le Point" },
     { year: 2018, title: "La m\u00e9thode Galil\u00e9e pour convaincre", outlet: "Ph\u00e9b\u00e9, Le Point" },
+    { year: 2018, title: "Conna\u00eetre ses biais cognitifs pour mieux recruter", outlet: "Ph\u00e9b\u00e9, Le Point" },
+    { year: 2017, title: "Murmurer \u00e0 l'oreille de l'\u00e9l\u00e9phant. Qu'est-ce que le raisonnement moral?", outlet: "Ph\u00e9b\u00e9, Le Point" },
     { year: 2017, title: "Les vrais et faux du visage", outlet: "Ph\u00e9b\u00e9, Le Point" },
     { year: 2017, title: "Comment les religions sont devenues morales", outlet: "Ph\u00e9b\u00e9, Le Point" },
     { year: 2017, title: "L'homme n'est pas si cr\u00e9dule qu'on croit", outlet: "Ph\u00e9b\u00e9, Le Point" },

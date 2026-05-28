@@ -358,12 +358,8 @@ function renderOutreach(containerId) {
   var container = document.getElementById(containerId);
   if (!container) return;
 
-  // Public talks
-  var label2 = document.createElement("div");
-  label2.className = "subsection-label";
-  label2.textContent = "Public Talks & Interventions";
-  container.appendChild(label2);
-  renderFlatListUl(container, SITE_DATA.publicTalks, function(item) {
+  // Panels & public talks
+  var talkRenderer = function(item) {
     var html = "";
     if (item.url) {
       html += "<a href='" + item.url + "' target='_blank' rel='noopener'>" + item.text + "</a>";
@@ -373,7 +369,20 @@ function renderOutreach(containerId) {
     html += ". <span class='venue'>" + item.venue + "</span>.";
     html += " <span class='year-tag'>(" + item.year + ")</span>";
     return html;
-  }, 3);
+  };
+
+  var label2 = document.createElement("div");
+  label2.className = "subsection-label";
+  label2.textContent = "Panels & Public Talks";
+  container.appendChild(label2);
+  renderFlatListUl(container, SITE_DATA.panelsAndPublicTalks, talkRenderer, 3);
+
+  // Podcasts & interviews
+  var label2b = document.createElement("div");
+  label2b.className = "subsection-label";
+  label2b.textContent = "Podcasts & Interviews";
+  container.appendChild(label2b);
+  renderFlatListUl(container, SITE_DATA.podcastsAndInterviews, talkRenderer, 3);
 
   // Articles
   var label3 = document.createElement("div");
