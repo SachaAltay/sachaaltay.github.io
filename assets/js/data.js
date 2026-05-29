@@ -623,7 +623,7 @@ const SITE_DATA = {
     { year: 2023, text: "Rethinking the problem of misinformation", venue: "CeSCuP", location: "Bruxelles" },
     { year: 2022, text: "Fighting misinformation or fighting for information?", venue: "Cambridge Social Decision-Making Lab", location: "" },
     { year: 2022, text: "Fighting misinformation or fighting for information?", venue: "MIT Human Cooperation Laboratory", location: "" },
-    { year: 2022, text: "How Effective Are Interventions Against Misinformation?", venue: "University of Bristol (TeDCog group)", location: "UK" },
+    { year: 2022, text: "How Effective Are Interventions Against Misinformation?", venue: "University of Bristol (TeDCog group)", location: "Online" },
     { year: 2022, text: "Challenging alarmist narratives on misinformation", venue: "University of Zurich", location: "Switzerland" },
     { year: 2022, text: "The psychology of fake news and COVID-19", venue: "Applied cognitive science webinar series, Jean Nicod Institute", location: "Paris, France" },
     { year: 2021, text: "Contextualizing misinformation", venue: "European Commission, JRC Mission on Disinformation", location: "" },
