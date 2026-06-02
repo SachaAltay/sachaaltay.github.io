@@ -791,6 +791,7 @@ const SITE_DATA = {
 
   // === PODCASTS ===
   podcasts: [
+    { title: "Pourquoi nous r\u00e9sistons mieux aux fake news qu'on ne le croit", show: "R\u00e9armer la D\u00e9mocratie", year: 2026, url: "https://open.spotify.com/episode/1m6HWXak8GECaq6wcJrBuw" },
     { title: "Misinformation, Social Media, and Deepfakes", show: "Conspicuous Cognition", year: 2026, url: "https://open.spotify.com/episode/1bKHmc2dsIPHtPI5NuzVSD" },
     { title: "The misinformation circus", show: "Dr\u017eavljan D", year: 2024, url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/", color: "#1a3a5c" },
     { title: "Misinformation, Fake News & Conspiracy", show: "Behind the Stigma", year: 2023, url: "https://open.spotify.com/episode/6E4HhMQKeJluDMDtewnloT" },
