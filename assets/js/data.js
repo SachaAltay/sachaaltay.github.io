@@ -732,6 +732,7 @@ const SITE_DATA = {
 
   // === OUTREACH: PODCASTS & INTERVIEWS ===
   podcastsAndInterviews: [
+    { year: 2026, text: "Why we resist fake news better than we think (in French)", venue: "R\u00e9armer la D\u00e9mocratie", url: "https://open.spotify.com/episode/1m6HWXak8GECaq6wcJrBuw" },
     { year: 2026, text: "Misinformation, Social Media, and Deepfakes", venue: "Conspicuous Cognition" },
     { year: 2024, text: "The misinformation circus", venue: "Podcast Dr\u017eavljan D", url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/" },
     { year: 2023, text: "Misinformation, Fake News & Conspiracy", venue: "Behind the Stigma", url: "https://behindthestigma.buzzsprout.com/1402324/13270115-misinformation-fake-news-conspiracy-with-dr-sacha-altay" },
@@ -740,11 +741,11 @@ const SITE_DATA = {
     { year: 2022, text: "Misinformation and Climate Change", venue: "In Over My Head Podcast", url: "https://www.inovermyheadpodcast.com/episodes/changing-minds-part-6" },
     { year: 2022, text: "Quantifying the 'infodemic': People turned to trustworthy news outlets during the pandemic", venue: "The Agenda, TVO", url: "https://www.tvo.org/video/was-the-covid-19-infodemic-exaggerated" },
     { year: 2022, text: "Misinformation & trust in the news media", venue: "KMO" },
-    { year: 2022, text: "Interview on misconceptions about misinformation", venue: "Projet Utopia", url: "https://soundcloud.com/projetutopia/mesinformation-sur-la-desinformation-sacha-altay" },
+    { year: 2022, text: "Misconceptions about misinformation (in French)", venue: "Projet Utopia", url: "https://soundcloud.com/projetutopia/mesinformation-sur-la-desinformation-sacha-altay" },
     { year: 2022, text: "Live stream on misinformation and distrust", venue: "Kairos" },
-    { year: 2022, text: "Interview on misinformation, conspiracy theories, and communication strategies during the pandemic", venue: "Un verre avec", url: "https://www.listennotes.com/podcasts/un-verre-avec/sacha-et-ses-fake-news-lcvIHmuUYxg/" },
-    { year: 2021, text: "Interview on gullibility and misinformation", venue: "Cog Sci, Phil & Chill" },
-    { year: 2021, text: "Interview on Social Media, Fake News, Science Communication, and COVID-19", venue: "The Dissenter", url: "https://www.youtube.com/watch?v=P9HBMMLzqKc" }
+    { year: 2022, text: "Misinformation, conspiracy theories, and communication strategies during the pandemic (in French)", venue: "Un verre avec", url: "https://www.listennotes.com/podcasts/un-verre-avec/sacha-et-ses-fake-news-lcvIHmuUYxg/" },
+    { year: 2021, text: "Gullibility and misinformation (in French)", venue: "Cog Sci, Phil & Chill" },
+    { year: 2021, text: "Social Media, Fake News, Science Communication, and COVID-19", venue: "The Dissenter", url: "https://www.youtube.com/watch?v=P9HBMMLzqKc" }
   ],
 
   // === OUTREACH: ARTICLES WRITTEN ===
