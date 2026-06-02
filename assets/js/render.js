@@ -41,7 +41,7 @@ function renderFeaturedTalks(containerId) {
     var noMaxres = ["aOyq7IfDrS8", "lXVeUbLegpk", "x9c8S92_WYw"];
     var quality = noMaxres.indexOf(talk.youtubeId) >= 0 ? "sddefault" : "maxresdefault";
     var thumbUrl = "https://img.youtube.com/vi/" + talk.youtubeId + "/" + quality + ".jpg";
-    var videoUrl = "https://www.youtube.com/watch?v=" + talk.youtubeId;
+    var videoUrl = "https://www.youtube.com/watch?v=" + talk.youtubeId + "&t=0s";
 
     card.innerHTML =
       "<a href='" + videoUrl + "' target='_blank' rel='noopener'>" +
