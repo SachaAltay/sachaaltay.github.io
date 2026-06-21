@@ -551,6 +551,13 @@ const SITE_DATA = {
   // === WORKING PAPERS / FILE DRAWER ===
   workingPapers: [
     {
+      year: 2026,
+      authors: "Dubourg, E., & <span class='self'>Altay, S.</span>",
+      title: "Agentic AI as epistemic tools",
+      journal: "PsyArXiv",
+      url: "https://osf.io/preprints/psyarxiv/xnvak"
+    },
+    {
       year: 2023,
       authors: "Hoes, E., <span class='self'>Altay, S.</span>, & Bermeo, J.",
       title: "Leveraging ChatGPT for Efficient Fact-Checking",
