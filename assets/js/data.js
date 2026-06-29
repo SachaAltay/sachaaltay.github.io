@@ -58,7 +58,8 @@ const SITE_DATA = {
       title: "Reframing AI in the Digital Public Sphere",
       venue: "Knight First Amendment Institute",
       year: 2025,
-      youtubeId: "p2kAQK1gLQs"
+      youtubeId: "p2kAQK1gLQs",
+      start: 1000
     },
     {
       title: "How Effective Are Interventions Against Misinformation?",
