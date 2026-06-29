@@ -18,6 +18,13 @@ const SITE_DATA = {
   // === FEATURED TALKS (YouTube videos for the landing section) ===
   featuredTalks: [
     {
+      title: "AI and Disinformation",
+      venue: "Hi! PARIS Meet-Up, Station F",
+      year: 2026,
+      youtubeId: "8TKX66OPv5s",
+      start: 2425
+    },
+    {
       title: "Misinformation, Social Media, and Deepfakes",
       venue: "Conspicuous Cognition",
       year: 2026,
