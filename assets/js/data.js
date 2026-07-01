@@ -821,6 +821,8 @@ const SITE_DATA = {
 
   // === GRANTS ===
   grants: [
+    { years: "2026", title: "IPZ Research Grant (co-applicant)", topic: "University of Zurich", amount: "10,000 EUR" },
+    { years: "2026", title: "GRC Short Grant (co-applicant)", topic: "University of Zurich", amount: "5,000 EUR" },
     { years: "2025\u20132027", title: "UZH postdoc grant", topic: "On narratives about new information technologies", amount: "200,000 EUR" },
     { years: "2018\u20132021", title: "Th\u00e8se AID classique (Agence de l'Innovation de D\u00e9fense)", topic: "", amount: "130,000 EUR" }
   ],
