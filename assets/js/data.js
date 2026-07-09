@@ -747,6 +747,7 @@ const SITE_DATA = {
 
   // === OUTREACH: PODCASTS & INTERVIEWS ===
   podcastsAndInterviews: [
+    { year: 2026, text: "Preventing health risks from toxic social media content, with Alberto Acerbi (in French)", venue: "Fondation APRIL expert report", url: "https://www.fondation-april.org/wp-content/uploads/2026/06/Cahier-expert-4-sante-reseaux-sociaux-et-toxicite-invisible.pdf" },
     { year: 2026, text: "Why we resist fake news better than we think (in French)", venue: "R\u00e9armer la D\u00e9mocratie", url: "https://open.spotify.com/episode/1m6HWXak8GECaq6wcJrBuw" },
     { year: 2026, text: "Misinformation, Social Media, and Deepfakes", venue: "Conspicuous Cognition" },
     { year: 2024, text: "The misinformation circus", venue: "Podcast Dr\u017eavljan D", url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/" },
