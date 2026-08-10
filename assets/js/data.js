@@ -133,6 +133,15 @@ const SITE_DATA = {
   peerReviewed: [
     {
       year: 2026,
+      month: 8,
+      authors: "Hoes, E. & <span class='self'>Altay, S.</span>",
+      title: "Debriefings in Misinformation Research Should Include Fact-Checks to Correct Misperceptions and Increase Perceived Learning",
+      journal: "Political Science Research and Methods",
+      url: "https://doi.org/10.1017/psrm.2026.10117",
+      thumb: "assets/img/papers/_2026_Debriefings_PSRM.png"
+    },
+    {
+      year: 2026,
       month: 4,
       authors: "<span class='self'>Altay, S.</span>",
       title: "Rethinking the Problem of Misinformation and Its Solutions",
@@ -147,14 +156,6 @@ const SITE_DATA = {
       journal: "Personality and Social Psychology Bulletin",
       url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5051379",
       thumb: "assets/img/papers/_2026_Conspi_first_hand_PSPB.png"
-    },
-    {
-      year: 2026,
-      month: 4,
-      authors: "Hoes, E. & <span class='self'>Altay, S.</span>",
-      title: "Debriefings in Misinformation Research Should Include Fact-Checks to Reduce False Beliefs and Increase Perceived Learning",
-      journal: "Political Science Research and Methods",
-      url: "https://doi.org/10.31234/osf.io/gsudk_v1"
     },
     {
       year: 2025,
