@@ -687,6 +687,7 @@ const SITE_DATA = {
 
   // === OUTREACH: PRESS MENTIONS ===
   pressMentions: [
+    { year: 2026, title: "Foreign interference in French election campaigns", outlet: "RTS", url: "https://www.rts.ch/audio-podcast/2026/audio/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-dans-les-campagnes-electorales-29332154.html" },
     { year: 2026, title: "Conflict chambers, not echo chambers, on social media", outlet: "Verificat", url: "https://www.verificat.cat/no-son-cambres-deco-son-cambres-de-conflicte-per-que-ens-polaritzen-les-xarxes-socials/" },
     { year: 2026, title: "AI agent swarms in elections", outlet: "NZZ", url: "https://www.nzz.ch/technologie/schwaerme-aus-ki-agenten-koennten-schon-bald-demokratische-wahlen-beeinflussen-warnen-prominente-experten-wirklich-ld.1921487" },
     { year: 2026, title: "Health misinformation on TikTok", outlet: "Publico", url: "https://www.publico.pt/interactivos/tiktok-desinformacao-saude-pernas-compridas/" },
@@ -748,7 +749,6 @@ const SITE_DATA = {
 
   // === OUTREACH: PODCASTS & INTERVIEWS ===
   podcastsAndInterviews: [
-    { year: 2026, text: "Foreign interference in French election campaigns (in French)", venue: "La Matinale, RTS", url: "https://www.rts.ch/audio-podcast/2026/audio/presidentielle-2027-le-parquet-de-paris-enquete-sur-des-soupcons-d-ingerence-dans-les-campagnes-electorales-29332154.html" },
     { year: 2026, text: "Preventing health risks from toxic social media content (in French)", venue: "Fondation APRIL expert report", url: "https://www.fondation-april.org/wp-content/uploads/2026/06/Cahier-expert-4-sante-reseaux-sociaux-et-toxicite-invisible.pdf" },
     { year: 2026, text: "Why we resist fake news better than we think (in French)", venue: "R\u00e9armer la D\u00e9mocratie", url: "https://open.spotify.com/episode/1m6HWXak8GECaq6wcJrBuw" },
     { year: 2026, text: "Misinformation, Social Media, and Deepfakes", venue: "Conspicuous Cognition" },
