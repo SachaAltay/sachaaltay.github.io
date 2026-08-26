@@ -234,6 +234,7 @@ const SITE_DATA = {
       authors: "<span class='self'>Altay, S.</span>\u2020, Lyons, B\u2020. & Modirrousta-Galian, A.",
       title: "Exposure to Higher Rates of False News Erodes Media Trust and Fuels Overconfidence",
       journal: "Mass Communication and Society",
+      award: "Article of the Year Award",
       url: "https://www.tandfonline.com/doi/full/10.1080/15205436.2024.2382776",
       thumb: "assets/img/papers/_2024_False_news_ratio_MCS.png"
     },

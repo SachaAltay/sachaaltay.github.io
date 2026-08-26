@@ -276,6 +276,9 @@ function pubToHtml(pub) {
   if (pub.type) {
     html += " <span class='pub-type-tag'>" + pub.type + "</span>";
   }
+  if (pub.award) {
+    html += " <span class='pub-award-tag'>&#127942; " + pub.award + "</span>";
+  }
   if (pub.youtube) {
     html += " <a href='" + pub.youtube + "' target='_blank' rel='noopener' class='pub-video-link'>&#9654; Video</a>";
   }
