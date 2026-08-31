@@ -679,10 +679,12 @@ const SITE_DATA = {
       { year: 2019, title: "Introduction to Evolutionary Psychology", institution: "PSL Research University", level: "Bachelor degree lecture" }
     ],
     supervision: [
-      { years: "2023\u20132025", student: "Jan Pfander", institution: "ENS", note: "led to the publication of one article in Nature Human Behaviour" },
-      { years: "2020\u20132021", student: "Alicia Herrera-Masurel", institution: "Cogmaster, ENS", note: "led to the publication of one article" },
-      { years: "2020\u20132021", student: "Syalie Liu", institution: "Cogmaster, ENS", note: "led to the publication of one article" },
-      { years: "2019\u20132020", student: "Emma de Araujo", institution: "Paris Descartes", note: "led to the publication of two articles" }
+      { years: "2026\u2013present", student: "Bianca Picariello", institution: "PhD student", note: "co-supervised with Hugo Mercier" },
+      { years: "2026\u2013present", student: "India Sachdev", institution: "M1 student", note: "co-supervised with Hugo Mercier" },
+      { years: "2023\u20132025", student: "Jan Pfander", institution: "PhD student, ENS", note: "mentoring, led to the publication of one article in Nature Human Behaviour" },
+      { years: "2020\u20132021", student: "Alicia Herrera-Masurel", institution: "Cogmaster, ENS", note: "co-supervised, led to the publication of one article" },
+      { years: "2020\u20132021", student: "Syalie Liu", institution: "Cogmaster, ENS", note: "co-supervised, led to the publication of one article" },
+      { years: "2019\u20132020", student: "Emma de Araujo", institution: "Paris Descartes", note: "co-supervised, led to the publication of two articles" }
     ]
   },
 
