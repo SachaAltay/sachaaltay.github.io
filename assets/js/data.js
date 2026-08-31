@@ -679,7 +679,7 @@ const SITE_DATA = {
       { year: 2019, title: "Introduction to Evolutionary Psychology", institution: "PSL Research University", level: "Bachelor degree lecture" }
     ],
     supervision: [
-      { years: "2026\u2013present", student: "Bianca Picariello", institution: "PhD, ENS", note: "co-supervised with Hugo Mercier" },
+      { years: "2025\u2013present", student: "Bianca Picariello", institution: "Cogmaster M2, then PhD, ENS", note: "co-supervised with Hugo Mercier" },
       { years: "2025\u20132026", student: "India Sachdev", institution: "M1, ENS", note: "co-supervised with Hugo Mercier" },
       { years: "2023\u20132025", student: "Jan Pfander", institution: "PhD, ENS", note: "mentoring; 1 article in Nature Human Behaviour, senior author" },
       { years: "2020\u20132021", student: "Alicia Herrera-Masurel", institution: "Cogmaster, ENS", note: "co-supervised with Hugo Mercier; 1 article" },
