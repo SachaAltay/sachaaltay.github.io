@@ -752,6 +752,7 @@ const SITE_DATA = {
 
   // === OUTREACH: PODCASTS & INTERVIEWS ===
   podcastsAndInterviews: [
+    { year: 2026, text: "Rethinking the misinformation paradox: distrust, power, and the real roots of deception", venue: "Matters of Consequence", url: "https://open.spotify.com/episode/1XsiXxNuVR6A7fGfb2v32T" },
     { year: 2026, text: "Preventing health risks from toxic social media content (in French)", venue: "Fondation APRIL expert report", url: "https://www.fondation-april.org/wp-content/uploads/2026/06/Cahier-expert-4-sante-reseaux-sociaux-et-toxicite-invisible.pdf" },
     { year: 2026, text: "Why we resist fake news better than we think (in French)", venue: "R\u00e9armer la D\u00e9mocratie", url: "https://open.spotify.com/episode/1m6HWXak8GECaq6wcJrBuw" },
     { year: 2026, text: "Misinformation, Social Media, and Deepfakes", venue: "Conspicuous Cognition" },
@@ -813,6 +814,7 @@ const SITE_DATA = {
 
   // === PODCASTS ===
   podcasts: [
+    { title: "Rethinking the Misinformation Paradox", show: "Matters of Consequence", year: 2026, url: "https://open.spotify.com/episode/1XsiXxNuVR6A7fGfb2v32T" },
     { title: "Pourquoi nous r\u00e9sistons mieux aux fake news qu'on ne le croit", show: "R\u00e9armer la D\u00e9mocratie", year: 2026, url: "https://open.spotify.com/episode/1m6HWXak8GECaq6wcJrBuw" },
     { title: "Misinformation, Social Media, and Deepfakes", show: "Conspicuous Cognition", year: 2026, url: "https://open.spotify.com/episode/1bKHmc2dsIPHtPI5NuzVSD" },
     { title: "The misinformation circus", show: "Dr\u017eavljan D", year: 2024, url: "https://podcast.drzavljand.si/drzavljan-d/101-sacha-altay-and-the-misinformation-circus/", color: "#1a3a5c" },
