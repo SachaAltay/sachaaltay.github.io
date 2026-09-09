@@ -724,7 +724,7 @@ const SITE_DATA = {
 
   // === OUTREACH: PANELS & PUBLIC TALKS ===
   panelsAndPublicTalks: [
-    { year: 2026, text: "Round Table: New Technologies and the Fight Against Disinformation", venue: "Association Francophone pour la Recherche en Psychologie Politique (AFR-PsyPol)" },
+    { year: 2026, text: "Round Table: New Technologies and the Fight Against Disinformation", venue: "AFR-PsyPol" },
     { year: 2026, text: "Talk and Round Table on Fake News Detection", venue: "Hi! PARIS Meet Up, Station F", url: "https://hi-paris.fr/event/meet-up-on-ai-fake-news-detection/" },
     { year: 2026, text: "Round Table: Responding to Disinformation", venue: "Centre Climat-Soci\u00e9t\u00e9, Institut Pierre-Simon Laplace", url: "https://www.ipsl.fr/article/journee-climat-sur-la-desinformation-et-les-nouveaux-recits-centre-climat-societe/" },
     { year: 2026, text: "Round Table: Facts, Doubts and Climate Action \u2014 How to Tackle Disinformation?", venue: "\u00c9cole Normale Sup\u00e9rieure" },
