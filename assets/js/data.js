@@ -612,6 +612,7 @@ const SITE_DATA = {
 
   // === INVITED TALKS AT INTERNATIONAL CONFERENCES ===
   invitedConferenceTalks: [
+    { year: 2026, text: "Beyond the psychology of disinformation", venue: "EDMO Training: How do we think together?", location: "Online" },
     { year: 2025, text: "Rethinking the problem of misinformation", venue: "Zoom Psychology & Law Symposium", location: "Online", type: "Keynote" },
     { year: 2024, text: "Rethinking the problem of misinformation", venue: "FAKEPENAL", location: "Alicante, Spain" },
     { year: 2023, text: "Reframing the problem of misinformation", venue: "Workshop on the Regulation of Disinformation", location: "Frankfurt, Germany" },
@@ -773,6 +774,7 @@ const SITE_DATA = {
 
   // === OUTREACH: ARTICLES WRITTEN ===
   articles: [
+    { year: 2026, title: "Les LLMs, un antidote \u00e0 la polarisation et \u00e0 la m\u00e9sinformation ?", outlet: "Spirales", url: "https://www.spirales.eu/publications/ll-ms-polarisation/" },
     { year: 2024, title: "AI's impact on elections is being overblown", outlet: "MIT Technology Review", url: "https://www.technologyreview.com/2024/09/03/1103464/ai-impact-elections-overblown/" },
     { year: 2024, title: "Disinformation: People aren't as gullible as we think", outlet: "Deutsche Welle Akademie", url: "https://akademie.dw.com/en/disinformation-people-arent-as-gullible-as-we-think/a-67774216" },
     { year: 2022, title: "Against fake news, we need to create \"steel men\"", outlet: "Lib\u00e9ration", url: "https://www.liberation.fr/plus/face-aux-fake-news-creons-des-hommes-de-fer-20220829_TJYZBMO5JZE5XO5ZGHQMF3LSEQ/" },
