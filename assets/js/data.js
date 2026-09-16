@@ -612,7 +612,6 @@ const SITE_DATA = {
 
   // === INVITED TALKS AT INTERNATIONAL CONFERENCES ===
   invitedConferenceTalks: [
-    { year: 2026, text: "Beyond the psychology of disinformation", venue: "EDMO Training: How do we think together?", location: "Online" },
     { year: 2025, text: "Rethinking the problem of misinformation", venue: "Zoom Psychology & Law Symposium", location: "Online", type: "Keynote" },
     { year: 2024, text: "Rethinking the problem of misinformation", venue: "FAKEPENAL", location: "Alicante, Spain" },
     { year: 2023, text: "Reframing the problem of misinformation", venue: "Workshop on the Regulation of Disinformation", location: "Frankfurt, Germany" },
@@ -725,6 +724,7 @@ const SITE_DATA = {
 
   // === OUTREACH: PANELS & PUBLIC TALKS ===
   panelsAndPublicTalks: [
+    { year: 2026, text: "Beyond the psychology of disinformation", venue: "EDMO Training" },
     { year: 2026, text: "Round Table: New Technologies and the Fight Against Disinformation", venue: "AFR-PsyPol" },
     { year: 2026, text: "Talk and Round Table on Fake News Detection", venue: "Hi! PARIS Meet Up, Station F", url: "https://hi-paris.fr/event/meet-up-on-ai-fake-news-detection/" },
     { year: 2026, text: "Round Table: Responding to Disinformation", venue: "Centre Climat-Soci\u00e9t\u00e9, Institut Pierre-Simon Laplace", url: "https://www.ipsl.fr/article/journee-climat-sur-la-desinformation-et-les-nouveaux-recits-centre-climat-societe/" },
