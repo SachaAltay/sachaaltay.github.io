@@ -265,7 +265,7 @@ const SITE_DATA = {
     {
       year: 2023,
       authors: "Schmid, P., <span class='self'>Altay, S.</span> & Scherer, L.",
-      title: "The Psychological Impacts and Message Features of Planetary Health Misinformation",
+      title: "The Psychological Impacts and Message Features of Health Misinformation: A Systematic Review of Randomized Controlled Trials",
       journal: "European Psychologist",
       url: "https://econtent.hogrefe.com/doi/full/10.1027/1016-9040/a000494",
       thumb: "assets/img/papers/_2023_Health_misinfo_Euro_Psy_.png"
@@ -288,8 +288,8 @@ const SITE_DATA = {
     },
     {
       year: 2023,
-      authors: "<span class='self'>Altay, S.</span>, & Mercier, H.",
-      title: "Happy Thoughts: The Role of Communion in Accepting and Sharing Epistemically Suspect Beliefs",
+      authors: "<span class='self'>Altay, S.</span>, Majima, Y. & Mercier, H.",
+      title: "Happy Thoughts: The Role of Communion in Accepting and Sharing (Mis)beliefs",
       journal: "British Journal of Social Psychology",
       url: "https://psyarxiv.com/3s4nr/",
       thumb: "assets/img/papers/_2023_Warmth_BJSP_.png",
@@ -322,8 +322,8 @@ const SITE_DATA = {
     {
       year: 2023,
       authors: "<span class='self'>Altay, S.</span>, Nielsen, R.K. & Fletcher, R.",
-      title: "News can help! The impact of news media and digital platform use on awareness of and belief in COVID-19 misinformation",
-      journal: "International Journal of Press & Politics",
+      title: "News Can Help! The Impact of News Media and Digital Platforms on Awareness of and Belief in Misinformation",
+      journal: "The International Journal of Press/Politics",
       url: "https://journals.sagepub.com/doi/full/10.1177/19401612221148981",
       thumb: "assets/img/papers/_2023_News_can_help_IJPP.png"
     },
@@ -418,7 +418,7 @@ const SITE_DATA = {
     {
       year: 2021,
       authors: "Hacquin, A., <span class='self'>Altay, S.</span>, Aar\u00f8e, L., & Mercier, H.",
-      title: "Fear of contamination and public opinion on nuclear energy",
+      title: "Disgust Sensitivity and Public Opinion on Nuclear Energy",
       journal: "Journal of Environmental Psychology",
       url: "https://www.sciencedirect.com/science/article/pii/S0272494421002024",
       thumb: "assets/img/papers/_2022_Nuclear_Disgust_Env_Psy_.png"
