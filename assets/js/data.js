@@ -133,6 +133,15 @@ const SITE_DATA = {
   peerReviewed: [
     {
       year: 2026,
+      month: 10,
+      authors: "Berriche, M., Cointet, J.-P., Hacquin, A.-S., <span class='self'>Altay, S.</span>, Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., & Cardon, D.",
+      title: "Faker Island: Profiling misinformation sharers on the French Twittersphere",
+      journal: "Journal of Quantitative Description: Digital Media",
+      url: "https://doi.org/10.51685/jqd.2026.016",
+      thumb: "assets/img/papers/_2026_Faker_Island_JQD.png"
+    },
+    {
+      year: 2026,
       month: 8,
       authors: "Hoes, E. & <span class='self'>Altay, S.</span>",
       title: "Debriefings in Misinformation Research Should Include Fact-Checks to Correct Misperceptions and Increase Perceived Learning",
