@@ -134,6 +134,15 @@ const SITE_DATA = {
     {
       year: 2026,
       month: 10,
+      authors: "Darcy, G. & <span class='self'>Altay, S.</span>",
+      title: "Disinformation in practice: Threats, actors, mechanisms, and constraints according to practitioners",
+      journal: "Harvard Kennedy School Misinformation Review",
+      url: "https://doi.org/10.37016/mr-2020-213",
+      thumb: "assets/img/papers/_2026_Disinformation_Practice_HKS.png"
+    },
+    {
+      year: 2026,
+      month: 10,
       authors: "Berriche, M., Cointet, J.-P., Hacquin, A.-S., <span class='self'>Altay, S.</span>, Mazoyer, B., Ooghe-Tabanou, B., Mercier, H., & Cardon, D.",
       title: "Faker Island: Profiling misinformation sharers on the French Twittersphere",
       journal: "Journal of Quantitative Description: Digital Media",
