@@ -134,6 +134,14 @@ const SITE_DATA = {
     {
       year: 2026,
       month: 10,
+      authors: "<span class='self'>Altay, S.</span>, Valenzuela, S. & Howard, P. N.",
+      title: "Do Experts Agree About Misinformation? Evidence From Three Annual Surveys",
+      journal: "Social Media + Society",
+      url: "https://doi.org/10.1177/20563051261495196"
+    },
+    {
+      year: 2026,
+      month: 10,
       authors: "Darcy, G. & <span class='self'>Altay, S.</span>",
       title: "Disinformation in practice: Threats, actors, mechanisms, and constraints according to practitioners",
       journal: "Harvard Kennedy School Misinformation Review",
