@@ -137,7 +137,8 @@ const SITE_DATA = {
       authors: "<span class='self'>Altay, S.</span>, Valenzuela, S. & Howard, P. N.",
       title: "Do Experts Agree About Misinformation? Evidence From Three Annual Surveys",
       journal: "Social Media + Society",
-      url: "https://doi.org/10.1177/20563051261495196"
+      url: "https://doi.org/10.1177/20563051261495196",
+      thumb: "assets/img/papers/_2026_Experts_Agree_SMS.png"
     },
     {
       year: 2026,
