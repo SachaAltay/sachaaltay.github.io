@@ -2,9 +2,9 @@ const SITE_DATA = {
 
   meta: {
     name: "Sacha Altay",
-    title: "Postdoctoral Researcher",
-    affiliation: "University of Zurich",
-    affiliationUrl: "https://www.fabriziogilardi.org/team/",
+    title: "Researcher",
+    affiliation: "AMIAD - École Polytechnique",
+    affiliationUrl: "https://www.defense.gouv.fr/amiad-agence-ia-defense",
     email: "sacha.altay@gmail.com",
     twitter: "https://twitter.com/Sacha_Altay",
     bluesky: "https://bsky.app/profile/sachaltay.bsky.social",
