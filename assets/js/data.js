@@ -133,6 +133,15 @@ const SITE_DATA = {
   peerReviewed: [
     {
       year: 2026,
+      month: 11,
+      authors: "Szegőfi, Á., <span class='self'>Altay, S.</span> & Heintz, C.",
+      title: "\u2018Flooding\u2019 using disinformation",
+      journal: "British Journal of Social Psychology",
+      url: "https://doi.org/10.1111/bjso.70151",
+      thumb: "assets/img/papers/_2026_Flooding_BJSP.png"
+    },
+    {
+      year: 2026,
       month: 10,
       authors: "<span class='self'>Altay, S.</span>, Valenzuela, S. & Howard, P. N.",
       title: "Do Experts Agree About Misinformation? Evidence From Three Annual Surveys",
