@@ -302,9 +302,9 @@ function renderPublications(containerId) {
   // Peer-reviewed: show 5
   var label1 = document.createElement("div");
   label1.className = "subsection-label";
-  label1.textContent = "All Peer-Reviewed Articles";
+  label1.textContent = "Peer-Reviewed Articles";
   container.appendChild(label1);
-  renderFlatList(container, d.peerReviewed, pubToHtml, 3);
+  renderFlatList(container, d.peerReviewed, pubToHtml, 5);
 
   // Chapters: show 3
   if (d.chapters && d.chapters.length > 0) {

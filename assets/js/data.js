@@ -621,6 +621,7 @@ const SITE_DATA = {
 
   // === CONFERENCE PRESENTATIONS ===
   conferences: [
+    { year: 2026, text: "Rare on Screens but on Everyone's Mind: A Systematic Review of Misinformation Prevalence", venue: "5th Arcom Research Day", location: "Paris, France", type: "Talk" },
     { year: 2026, text: "Prevalence and impact of misinformation", venue: "AFRAVIH", location: "Lausanne, Switzerland", type: "Talk" },
     { year: 2025, text: "Who Is Concerned About Misinformation and Why? Evidence From 46 Countries Between 2018 and 2023", venue: "APSA", location: "Vancouver, Canada", type: "Talk" },
     { year: 2025, text: "How effective are interventions against misinformation? A meta-analysis", venue: "Swiss Psychological Society", location: "Crans-Montana, Switzerland", type: "Talk" },
@@ -658,6 +659,7 @@ const SITE_DATA = {
 
   // === INVITED LAB TALKS & LOCAL CONFERENCES ===
   labTalks: [
+    { year: 2026, text: "Strengthening informational resilience against disinformation, foreign interference, and AI-generated content", venue: "LIEPP seminar, Sciences Po", location: "Paris, France", url: "https://www.sciencespo.fr/liepp/fr/evenements/renforcer-la-resilience-informationnelle-face-a-la-desinformation-aux-ingerences-etrangeres-et-aux-contenus-generes-par-l-ia/" },
     { year: 2026, text: "Rethinking the Problem of Misinformation and Its Solutions", venue: "SHS Vaccination France", location: "Online", url: "https://shs-vaccination-france.com/le-reseau-france/" },
     { year: 2026, text: "Rethinking the Problem of Misinformation and Its Solutions", venue: "BCSS Discover and Discuss Research Seminar, University of Gloucestershire", location: "Online" },
     { year: 2026, text: "Rethinking the problem of misinformation", venue: "Markets and Strategy / Cognition and Behavior seminar, WU Vienna", location: "Online" },
