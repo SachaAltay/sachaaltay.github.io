@@ -3,7 +3,7 @@ const SITE_DATA = {
   meta: {
     name: "Sacha Altay",
     title: "Researcher",
-    affiliation: "AMIAD - École Polytechnique",
+    affiliation: "AMIAD - Institut Polytechnique de Paris",
     affiliationUrl: "https://www.defense.gouv.fr/amiad-agence-ia-defense",
     email: "sacha.altay@gmail.com",
     twitter: "https://twitter.com/Sacha_Altay",
@@ -596,6 +596,13 @@ const SITE_DATA = {
 
   // === WORKING PAPERS / FILE DRAWER ===
   workingPapers: [
+    {
+      year: 2026,
+      authors: "<span class='self'>Altay, S.</span>",
+      title: "Rare on Screens but on Everyone's Mind: A Systematic Review of Misinformation Prevalence, Exposure, and Concentration",
+      journal: "PsyArXiv",
+      url: "https://osf.io/preprints/psyarxiv/sgvr8"
+    },
     {
       year: 2026,
       authors: "Dubourg, E., & <span class='self'>Altay, S.</span>",
