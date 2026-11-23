@@ -819,6 +819,7 @@ const SITE_DATA = {
 
   // === OUTREACH: ARTICLES WRITTEN ===
   articles: [
+    { year: 2026, title: "The Truth About Global AI Governance (with S. Valenzuela)", outlet: "Project Syndicate", url: "https://www.project-syndicate.org/commentary/global-ai-governance-rests-on-misperception-of-developing-countries-by-sebastian-valenzuela-and-sacha-altay-2026-11" },
     { year: 2026, title: "Les LLMs, un antidote \u00e0 la polarisation et \u00e0 la m\u00e9sinformation ?", outlet: "Spirales", url: "https://www.spirales.eu/publications/ll-ms-polarisation/" },
     { year: 2024, title: "AI's impact on elections is being overblown", outlet: "MIT Technology Review", url: "https://www.technologyreview.com/2024/09/03/1103464/ai-impact-elections-overblown/" },
     { year: 2024, title: "Disinformation: People aren't as gullible as we think", outlet: "Deutsche Welle Akademie", url: "https://akademie.dw.com/en/disinformation-people-arent-as-gullible-as-we-think/a-67774216" },
