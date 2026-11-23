@@ -395,7 +395,6 @@ function renderOutreach(containerId) {
   container.appendChild(label3);
   renderFlatListUl(container, SITE_DATA.articles, function(item) {
     var html = "";
-    if (item.authors) html += item.authors + " ";
     if (item.url) {
       html += "<a href='" + item.url + "' target='_blank' rel='noopener'>" + item.title + "</a>";
     } else {
