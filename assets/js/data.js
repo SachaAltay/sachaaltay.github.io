@@ -628,7 +628,7 @@ const SITE_DATA = {
 
   // === CONFERENCE PRESENTATIONS ===
   conferences: [
-    { year: 2026, text: "Rare on Screens but on Everyone's Mind: A Systematic Review of Misinformation Prevalence", venue: "5th Arcom Research Day", location: "Paris, France", type: "Talk" },
+    { year: 2026, text: "Rare on Screens but on Everyone's Mind: A Systematic Review of Misinformation Prevalence", venue: "5th Arcom Research Day", location: "Paris, France", type: "Talk", url: "https://www.arcom.fr/actualites/journee-detudes-de-larcom-presentation-des-recherches-sur-les-medias-et-le-numerique" },
     { year: 2026, text: "Prevalence and impact of misinformation", venue: "AFRAVIH", location: "Lausanne, Switzerland", type: "Talk" },
     { year: 2025, text: "Who Is Concerned About Misinformation and Why? Evidence From 46 Countries Between 2018 and 2023", venue: "APSA", location: "Vancouver, Canada", type: "Talk" },
     { year: 2025, text: "How effective are interventions against misinformation? A meta-analysis", venue: "Swiss Psychological Society", location: "Crans-Montana, Switzerland", type: "Talk" },

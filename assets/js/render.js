@@ -331,7 +331,10 @@ function renderPresentations(containerId) {
   if (!container) return;
 
   function talkToHtml(item) {
-    var html = item.text + ". <span class='venue'>" + item.venue + "</span>";
+    var title = item.url
+      ? "<a href='" + item.url + "' target='_blank' rel='noopener'>" + item.text + "</a>"
+      : item.text;
+    var html = title + ". <span class='venue'>" + item.venue + "</span>";
     if (item.location) html += ", " + item.location;
     html += ".";
     if (item.type) html += " <span class='type-tag'>" + item.type + "</span>";
